@@ -1,7 +1,7 @@
 <div align="center">
   <img src="imgs/icon.png" width="100px">
-  <h1>png2icns</h1>
-  <p style="margin-top: -15px;">shortcut for macOS</p>
+  <h1>png2icns-shortcut</h1>
+  <p style="margin-top: -15px;">Apple Shortcut for macOS</p>
 </div>
 
 ## About
