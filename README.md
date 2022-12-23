@@ -5,7 +5,10 @@
 </div>
 
 ## About
-This shortcut allows you to generate `icns` file from a single 1024x1024 `png` image.
+This shortcut allows you to generate `icns` file from a single 1024x1024 `png` image.  
+<div align="center">
+  <img src="imgs/screenrecord1.gif" width="400px">
+</div>
 
 ## Installation
 1. Download `png2icns.shortcut` from this [link](png2icns.shortcut)
@@ -25,7 +28,7 @@ This shortcut allows you to generate `icns` file from a single 1024x1024 `png` i
 3. Choose `png2icns`
 
 4. You will be prompted for privacy control, click `OK` to continue  
-> **Info**  
+> **Note**  
 This shortcut does not change any existing data. If you are worried, you can check inside the shortcut to understand what this shortcut does.
 
 <div align="center">
