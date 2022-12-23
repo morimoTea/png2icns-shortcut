@@ -36,3 +36,5 @@ This shortcut does not change any existing data. If you are worried, you can che
 <div align="center">
   <img src="imgs/screenshot3.png" width="400px">
 </div>
+
+6. The `icns` file will be generated in the same directory!
