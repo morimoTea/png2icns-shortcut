@@ -43,7 +43,7 @@ This shortcut does not change any existing data. If you are worried, you can che
 6. The `icns` file will be generated in the same directory!
 
 ## Contents of `icns` file
-Generated `icns` file contains 10 different sized images.  
+Generated `icns` file contains 10 different sized icons.  
 <div align="center">
 
 | index | internal name | size |
