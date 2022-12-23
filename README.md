@@ -1,10 +1,8 @@
 <div align="center">
   <img src="imgs/icon.png" width="100px">
   <h1>png2icns</h1>
-  <p style="margin-top: -20px;">shortcut for macOS</p>
+  <p style="margin-top: -15px;">shortcut for macOS</p>
 </div>
-
----
 
 ## About
 This shortcut allows you to generate `icns` file from a single 1024x1024 `png` image.
@@ -14,8 +12,10 @@ This shortcut allows you to generate `icns` file from a single 1024x1024 `png` i
 
 2. Double-click to open `png2icns.shortcut`
 
-3. Shortcut app and this window appears, then click `Add Shortcut`  
-<img src="imgs/screenshot1.png" width="300px" align="center">
+3. Shortcut app window appears, then click `Add Shortcut`  
+<div align="center">
+  <img src="imgs/screenshot1.png" width="300px">
+</div>
 
 ## Usage
 1. Prepare a 1024x1024 icon image in `png` format
@@ -24,8 +24,15 @@ This shortcut allows you to generate `icns` file from a single 1024x1024 `png` i
 
 3. Choose `png2icns`
 
-4. You will be prompted for privacy control, click `OK` to continue
+4. You will be prompted for privacy control, click `OK` to continue  
+> **Info**  
+This shortcut does not change any existing data. If you are worried, you can check inside the shortcut to understand what this shortcut does.
 
-> 
+<div align="center">
+  <img src="imgs/screenshot2.png" width="400px">
+</div>
 
-5. You may be asked more about privacy control, select `Allow Once` or `Allow Always` 
+5. You may be asked more about privacy control, select `Allow Once` or `Allow Always`  
+<div align="center">
+  <img src="imgs/screenshot3.png" width="400px">
+</div>
