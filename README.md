@@ -35,7 +35,7 @@ This shortcut does not change any existing data. If you are worried, you can che
   <img src="imgs/screenshot2.png" width="400px">
 </div>
 
-5. You may be asked more about privacy control, select `Allow Once` or `Allow Always`  
+5. You may be asked more about privacy control, select `Allow Once` or `Always Allow`  
 <div align="center">
   <img src="imgs/screenshot3.png" width="400px">
 </div>
