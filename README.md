@@ -41,3 +41,22 @@ This shortcut does not change any existing data. If you are worried, you can che
 </div>
 
 6. The `icns` file will be generated in the same directory!
+
+## Contents of `icns` file
+Generated `icns` file contains 10 different sized images.  
+<div align="center">
+
+| index | internal name | size |
+| ---: | :--- | :--- |
+| 1 | icon_512x512@2x | 1024x1024 |
+| 2 | icon_512x512 | 512x512 |
+| 3 | icon_256x256@2x | 512x512 |
+| 4 | icon_256x256 | 256x256 |
+| 5 | icon_128x128@2x | 256x256 |
+| 6 | icon_128x128 | 128x128 |
+| 7 | icon_32x32@2x | 64x64 |
+| 8 | icon_32x32 | 32x32 |
+| 9 | icon_16x16@2x | 32x32 |
+| 10 | icon_16x16 | 16x16 |
+
+</div>
